@@ -23,4 +23,6 @@ the windows commannd line was
 >>> then the server was started using the command
 >>> python manage.py runserver
 >>> the port was copied to the browser and entered.
->>> 
+>>> django admin was entered 
+>>> the admin\ path was updated to
+>>> zuri-admin\
